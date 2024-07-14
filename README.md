@@ -53,4 +53,8 @@ storing and retrieving embeddings efficiently.
 • Chatbot: ChatGPT 4o its super powerful.
 
 • UI: Gradio open source tool helped me create an interactive
-and user-friendly front-end.
+and user-friendly front end.
+
+## Authors
+
+- [@mohammed-Alhusini/](https://www.github.com/mohammed-Alhusini/)
