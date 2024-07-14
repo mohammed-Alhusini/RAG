@@ -1,10 +1,11 @@
 # RAG-model
 
-Developing a Retrieval-Augmented Generation (RAG) on nezams (it's a legal search
-engine) (https://nezams.com/). This will simplify the user journey to access legal
+Developing a Retrieval-Augmented Generation (RAG) on [nezams](https://nezams.com/). (it's a legal search
+engine). This will simplify the user journey to access legal
 documents making it easier and more accurate for users to find legal information.
 The chatbot will be available to all nezams users
 
+![]
 ## Design Process
 
 - Data Preparation
