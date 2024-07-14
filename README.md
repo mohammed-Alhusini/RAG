@@ -1,4 +1,4 @@
-# RAG-model-
+# RAG-model
 
 Developing a Retrieval-Augmented Generation (RAG) on nezams (it's a legal search
 engine) (https://nezams.com/). This will simplify the user journey to access legal
