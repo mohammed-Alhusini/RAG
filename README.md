@@ -5,8 +5,9 @@ engine). This will simplify the user journey to access legal
 documents making it easier and more accurate for users to find legal information.
 The chatbot will be available to all nezams users
 
-![RAG.png](RAG.png)
 ## Design Process
+
+![RAG.png](RAG.png)
 
 - Data Preparation
 
