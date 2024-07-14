@@ -7,33 +7,33 @@ The chatbot will be available to all nezams users
 
 # Design Process
 
-• Data Preparation
+- Data Preparation
 
-• A. Raw Data Sources
-o Collect raw fomr nzamez website.
+- A. Raw Data Sources
+-- Collect raw fomr nzamez website.
 
-• C. Chunking
-o Break down the extracted information into manageable chunks that can be
+- C. Chunking
+-- Break down the extracted information into manageable chunks that can be
 processed effectively.
 
-• D. Embedding
-o Convert the chunks into numerical vectors using embedding techniques.
+- D. Embedding
+-- Convert the chunks into numerical vectors using embedding techniques.
 
-• Vector Database
-o Store the embeddings in a vector database for efficient retrieval.
-o The vector database allows for the quick search of relevant legal
+- Vector Database
+-- Store the embeddings in a vector database for efficient retrieval.
+-- The vector database allows for the quick search of relevant legal
 information based on the query.
 
-• Query Processing
-o When a user submits a query it will convert it into an embedding.
+- Query Processing
+-- When a user submits a query it will convert it into an embedding.
 
-• Retrieval of Relevant Data.
-o Use the query embedding to search the vector database for relevant data.
-o Retrieve the most pertinent legal information Most of the time we retrieve
+- Retrieval of Relevant Data.
+-- Use the query embedding to search the vector database for relevant data.
+-- Retrieve the most pertinent legal information Most of the time we retrieve
 the closest five from the embedded query.
 
-• Response Generation
-o Use prompt engineering to pass relevant data to LLMs for generating
+- Response Generation
+-- Use prompt engineering to pass relevant data to LLMs for generating
 coherent and accurate responses to user queries.
 
 # Implementation
