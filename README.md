@@ -22,4 +22,4 @@ documents.
 
 ## Authors
 
-[@mohammed-Alhusini](https://www.github.com/mohammed-Alhusini)
+[mohammed-Alhusini](https://www.github.com/mohammed-Alhusini)
